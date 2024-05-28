@@ -1,16 +1,30 @@
-## Hi there 👋
+<!--Header-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:006699,100:003300&text=WOOJOO`s%20GitHub%20👋&animation=twinkling&fontColor=FFFFFF&fontSize=40&fontAlignY=50&fontAlign=50&height=180" />
+</div>
 
-<!--
-**JungWoojoo/JungWoojoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Content-->
+<h1 align="center">⭐Tech Stack⭐</h1>
+<h3>💻BackEnd</h3>
+<div>
+   <img src="https://skillicons.dev/icons?i=spring,java,hibernate,gradle,maven,jenkins,docker,aws,postman,prometheus,grafana,elasticsearch" />
+</div>
+<h3>🖥FrontEnd</h3>
+<div>
+   <img src="https://skillicons.dev/icons?i=javascript,css,html,bootstrap,tailwind,react,redux" />
+</div>
+<h3>🛠Tools</h3>
+<div>
+   <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,webstorm,git,github,gitlab,notion,discord,gmail" />
+</div>
+<h3>⌨RDS</h3>
+<div>
+   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">⭐Github Stat⭐</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JungWoojoo&include_all_commits=true&show_icons=true&theme=cobalt" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Footer-->
