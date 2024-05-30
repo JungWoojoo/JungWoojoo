@@ -22,7 +22,7 @@
    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" />
 </div>
 
-<h2 align="center">⭐Github Stat⭐</h2>
+<h2 align="center">✨Github Stat✨</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JungWoojoo&include_all_commits=true&show_icons=true&theme=cobalt" />
 </div>
