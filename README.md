@@ -4,7 +4,7 @@
 </div>
 
 <!--Content-->
-<h2 align="center">⭐Tech Stack⭐</h2>
+<h2 align="center">🌟Tech Stack🌟</h2>
 <h3>💻BackEnd</h3>
 <div>
    <img src="https://skillicons.dev/icons?i=spring,java,hibernate,gradle,maven,jenkins,docker,aws,postman,prometheus,grafana,elasticsearch" />
